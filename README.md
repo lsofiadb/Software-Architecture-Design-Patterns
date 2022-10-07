@@ -20,3 +20,9 @@ The class that contains the factory method or any of its subclasses decides on w
 <div  align="center">
 <img  width="600px" src="https://github.com/lsofiadb/Software-Architecture-Design-Patterns/blob/main/Images/factoryMethod.jpg">
 </div>
+
+### [Abstract Factory](https://github.com/lsofiadb/Software-Architecture-Design-Patterns/tree/main/AbstractFactory) :department_store::european_post_office::city_sunrise:
+<p>Abstract Factory is used to create groups of related objects while hiding the actual concrete classes. This is useful for plugging in a different group of objects to alter the behavior of the system. For each group or family, a concrete factory is implemented that manages the creation of the objects and the interdependencies and consistency requirements between them. Each concrete factory implements the interface of the abstract factory [1].  </p>
+<div  align="center">
+<img  width="600px" src="https://github.com/lsofiadb/Software-Architecture-Design-Patterns/blob/main/Images/abstractFactory.jpg">
+</div>
