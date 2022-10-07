@@ -1,5 +1,5 @@
 # Software Architecture Design Patterns :white_check_mark:
-[1] Software Architecture Design Patterns according to Partha Kuchana's book.  
+[1] Software Architecture Design Patterns according to [Partha Kuchana's book](https://github.com/lsofiadb/Software-Architecture-Design-Patterns/blob/main/Book/Partha%20Kuchana%20-%20Software%20Architecture%20Design%20Patterns%20in%20Java%20(2004).pdf).  
 
 There are multiple design patterns that allow the handling of common problems in software development.
 
